@@ -1,11 +1,10 @@
 {
-    "name": "workerman/workerman",
+    "name": "malonzhao/workerman",
     "type": "library",
     "keywords": [
         "event-loop",
         "asynchronous"
     ],
-    "homepage": "http://www.workerman.net",
     "license": "MIT",
     "description": "An asynchronous event driven PHP framework for easily building fast, scalable network applications.",
     "authors": [
@@ -17,11 +16,7 @@
         }
     ],
     "support": {
-        "email": "walkor@workerman.net",
-        "issues": "https://github.com/walkor/workerman/issues",
-        "forum": "http://wenda.workerman.net/",
-        "wiki": "http://doc3.workerman.net/index.html",
-        "source": "https://github.com/walkor/workerman"
+        "email": "malonzhao@gmail.com"
     },
     "require": {
         "php": ">=5.3"
